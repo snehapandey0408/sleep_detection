@@ -1,1 +1,2 @@
-# sleep_detection
+Sleep is a critical biological process, and understanding its stages has significant implications in neuroscience and healthcare. Manual sleep stage scoring from EEG signals is time-consuming and prone to inter-rater variability. In this project, I present a deep learning-based pipeline for automatic sleep stage detection using EEG data. By combining signal preprocessing (bandpass filtering, epoching) with a Convolutional Neural Network (CNN) classifier, and deploying the trained model via Gradio, I built an end-to-end system for real-time sleep stage prediction.
+
